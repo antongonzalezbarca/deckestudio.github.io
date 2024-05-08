@@ -39,6 +39,7 @@ h2{
 
 a{
     color: rgba(255, 255, 255, 0.342);
+    text-decoration: none;
     font-size: 10px;
     font-family: supreme;
     text-align:center;
@@ -46,7 +47,7 @@ a{
     top: 95%;
     left: 50%;
     transform: translateX(-50%) translateY(-50%);
-    text-decoration: none;
+    
 }
 
 
