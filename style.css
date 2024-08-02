@@ -1,11 +1,11 @@
 @font-face {
     font-family: satoshi;
-    src: url(Satoshi-Black.otf);
+    src: url(TYPE/Satoshi-Black.otf);
         
 }
 @font-face {
     font-family: supreme;
-    src: url(Supreme-Thin.otf);
+    src: url(TYPE/Supreme-Thin.otf);
         
 }
 body{
